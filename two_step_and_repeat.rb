@@ -10,8 +10,12 @@ def first_steps
   end
 end
   
-  first_steps
+def a_few_more_steps
+  loop do
+    puts "Right foot back"
+    (sleep 0.5)
     
+
 #   # Write a loop that outputs "Right foot back", "Left foot back",
 #   # "Right foot back", and "Stop", with sleep after each
 # end
